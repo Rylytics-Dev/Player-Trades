@@ -1,0 +1,15 @@
+{
+    "id": "Player-Trades",
+    "title": "Player Trades - Trading Made Easy",
+    "description": "A module that was created to enable easy trading between players.",
+    "authors": [
+      {
+      "name": "Rylytics"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "12",
+      "verified": "12"
+    }
+  }
